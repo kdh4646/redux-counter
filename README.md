@@ -7,6 +7,8 @@
 
 # 📖 Introduction
 
+1. Using `npm install redux react-redux` to install packages
+
 <!--
 
 1. Handling HTTP request
