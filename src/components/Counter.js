@@ -1,5 +1,4 @@
-import { Component } from "react";
-import { useSelector, useDispatch, connect } from "react-redux";
+import { useSelector, useDispatch } from "react-redux";
 
 import classes from "./Counter.module.css";
 
@@ -39,6 +38,8 @@ const Counter = () => {
 };
 
 /*
+
+Need to Import 'Component' from react, 'connect' from react-redux
 
 //class-based component example for redux
 class Counter extends Component {
