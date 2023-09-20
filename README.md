@@ -8,7 +8,7 @@
 # 📖 Introduction
 
 1. Using `npm install redux react-redux` to install packages
-2. Using `npm install @reduxjs/tooklkit` to install packages
+2. Using `npm install @reduxjs/tooklkit` to install packages (remove redux from package.json since it's already exist)
 3. Using `useDispatch()`, `useSelector()` for implementation
 
 <!--
