@@ -8,6 +8,7 @@
 # 📖 Introduction
 
 1. Using `npm install redux react-redux` to install packages
+2. Using `useDispatch()`, `useSelector()` for implementation
 
 <!--
 
