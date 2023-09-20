@@ -7,10 +7,13 @@
 
 # 📖 Introduction
 
+- Implement a simple React with Redux
+
 1. Using `npm install redux react-redux` to install packages
 2. Using `npm install @reduxjs/tooklkit` to install packages (remove redux from package.json since it's already exist)
 3. Using `useDispatch()`, `useSelector()` for implementation
 4. Using `createSlice()`, `configureStore()` for implementation
+5. Split one state into multipe states
 
 <!--
 5. Handling HTTP request
