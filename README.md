@@ -10,19 +10,20 @@
 1. Using `npm install redux react-redux` to install packages
 2. Using `npm install @reduxjs/tooklkit` to install packages (remove redux from package.json since it's already exist)
 3. Using `useDispatch()`, `useSelector()` for implementation
+4. Using `createSlice()`, `configureStore()` for implementation
 
 <!--
-
-1. Handling HTTP request
-1. Implementing async/await (fetch..then()) to get response
-2. Using The-Star-Wars API for GET data
-3. Using Firebase for POST data
+5. Handling HTTP request
+6. Implementing async/await (fetch..then()) to get response
+7. Using The-Star-Wars API for GET data
+8. Using Firebase for POST data
 
 - Implement a simple React page for
+
 1. Learning Class based components
 2. Using `componentDidUpdate()`, `componentDidMount()`, `componentDidCatch()`, `React.Component`
 3. Control errors which only supported by Class based components
--->
+   -->
 
 # 👀 Screenshots
 
